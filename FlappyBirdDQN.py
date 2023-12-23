@@ -3,7 +3,7 @@
 # Author: Flood Sung
 # Date: 2016.3.21
 # -------------------------
-
+author thinh
 import cv2
 import sys
 sys.path.append("game/")
